@@ -1,1 +1,2 @@
 today is Friday or Sunday.
+Tomrrow is Monday.
